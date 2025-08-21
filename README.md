@@ -1,4 +1,4 @@
-<!-- ملف README شخصي لأمير ناشر - مبرمج وصانع محتوى -->
+
 <div align="center">
 
 
@@ -6,14 +6,14 @@
 
 ---
 
-# 👋 مرحباً، أنا أمير ناشر  
-## 💙 Flutter Developer | 🎥 Content Creator | 📚 Self-Development Enthusiast
+ 👋 مرحباً، أنا أمير ناشر  
+ 💙 Flutter Developer | 🎥 Content Creator | 📚 Self-Development Enthusiast
 
 </div>
 
 ---
 
-## 🧠 من أنا؟
+ 🧠 من أنا؟
 
 مرحباً! أنا أمير ناشر، مطور تطبيقات باستخدام Flutter، وصانع محتوى على اليوتيوب عبر قناتي **[21Mindful](https://www.youtube.com/@21mindful)**، حيث أشارك محتوى علمي، ثقافي، وتطوير ذاتي، إضافة إلى تبسيط الكتب والأفكار المعرفية.
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 🔧 المهارات والأدوات
+ 🔧 المهارات والأدوات
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
