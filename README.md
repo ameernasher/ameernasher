@@ -35,10 +35,7 @@
 21Mindful هي مبادرة لصناعة محتوى علمي وثقافي يساعدك على تطوير ذاتك وتوسيع آفاقك.
 أقدّم ملخصات كتب، تبسيط مفاهيم، وأفكار تساعدك على التفكير النقدي وتطوير مهاراتك النفسية والعقلية.
 
-## اشترك الآن لتكون جزءاً من هذه الرحلة
-
 
 
 # البرمجة تصنع حلولاً، والمحتوى يصنع وعياً. أنا أصنع الإثنين
-
-<div align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="10%" alt="Learning" /> </div> 
+<div align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="10%" alt="Learning" /> </div>
