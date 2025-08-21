@@ -1,3 +1,4 @@
+<!-- ملف README شخصي لأمير ناشر - مبرمج وصانع محتوى -->
 <div align="center">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%" />
@@ -5,29 +6,46 @@
 
 ---
 
-## 👋 مرحباً بك في ملفي الشخصي
-
-### 🧠 أنا أمير ناشر  
-مطور تطبيقات Flutter 💙 | صانع محتوى علمي وثقافي 🎥 | مهتم بتطوير الذات 📚
+# 👋 مرحباً، أنا أمير ناشر  
+## 💙 Flutter Developer | 🎥 Content Creator | 📚 Self-Development Enthusiast
 
 </div>
 
 ---
 
-### 🛠️ المهارات التقنية
+## 🧠 من أنا؟
+
+مرحباً! أنا أمير ناشر، مطور تطبيقات باستخدام Flutter، وصانع محتوى على اليوتيوب عبر قناتي **[21Mindful](https://www.youtube.com/@21mindful)**، حيث أشارك محتوى علمي، ثقافي، وتطوير ذاتي، إضافة إلى تبسيط الكتب والأفكار المعرفية.
+
+أؤمن أن **المعرفة تُشارك، لا تُحتكر**، وأن البرمجة أداة لصناعة مستقبل أفضل.
+
+---
+
+## 🔧 المهارات والأدوات
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 ```dart
-نشأت قناة 21Mindful
- لتقديم محتوى علمي وثقافي يُسهم في تطوير الذات، تبسيط الأفكار والكتب، وتحفيز التفكير النقدي.
+// نبذة تقنية بصيغة الكود
 
-المعرفة قوة، والمشاركة مسؤولية. 💡
+class Ameernasher extends Human {
+  final String name = "أمير ناشر";
+  final List<String> roles = [
+    "Flutter Developer",
+    "Content Creator",
+    "Knowledge Sharer"
+  ];
 
-<div align="center"> <a href="https://www.youtube.com/@21mindful"> <img src="https://img.shields.io/badge/اشترك-في%2021Mindful-red?style=for-the-badge&logo=youtube&logoColor=white" /> </a> </div>
+  final Map<String, dynamic> techStack = {
+    "Languages": ["Dart", "JavaScript"],
+    "Frameworks": ["Flutter"],
+    "Databases": ["Firebase", "SQLite"],
+    "Tools": ["Git", "Figma", "VSCode"]
+  };
+}
