@@ -25,20 +25,9 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ```dart
-// نبذة عنّي بلغة الكود
+نشأت قناة 21Mindful
+ لتقديم محتوى علمي وثقافي يُسهم في تطوير الذات، تبسيط الأفكار والكتب، وتحفيز التفكير النقدي.
 
-class Ameernasher extends Human {
-  final String name = "أمير ناشر";
-  final List<String> roles = [
-    "مبرمج Flutter",
-    "صانع محتوى علمي وثقافي",
-    "مطوّر ذات"
-  ];
+المعرفة قوة، والمشاركة مسؤولية. 💡
 
-  final Map<String, dynamic> techStack = {
-    "Languages": ["Dart", "JavaScript"],
-    "Frameworks": ["Flutter"],
-    "Databases": ["Firebase", "SQLite"],
-    "Tools": ["Git", "VSCode", "Figma"]
-  };
-}
+<div align="center"> <a href="https://www.youtube.com/@21mindful"> <img src="https://img.shields.io/badge/اشترك-في%2021Mindful-red?style=for-the-badge&logo=youtube&logoColor=white" /> </a> </div>
