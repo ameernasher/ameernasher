@@ -30,21 +30,15 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-```dart
-// نبذة تقنية بصيغة الكود
+## 🎥 عن قناتي - 21Mindful
+![21mindful](images/myproject-screenshot.png)
+21Mindful هي مبادرة لصناعة محتوى علمي وثقافي يساعدك على تطوير ذاتك وتوسيع آفاقك.
+أقدّم ملخصات كتب، تبسيط مفاهيم، وأفكار تساعدك على التفكير النقدي وتطوير مهاراتك النفسية والعقلية.
 
-class Ameernasher extends Human {
-  final String name = "أمير ناشر";
-  final List<String> roles = [
-    "Flutter Developer",
-    "Content Creator",
-    "Knowledge Sharer"
-  ];
+# اشترك الآن لتكون جزءاً من هذه الرحلة
 
-  final Map<String, dynamic> techStack = {
-    "Languages": ["Dart", "JavaScript"],
-    "Frameworks": ["Flutter"],
-    "Databases": ["Firebase", "SQLite"],
-    "Tools": ["Git", "Figma", "VSCode"]
-  };
-}
+
+
+## البرمجة تصنع حلولاً، والمحتوى يصنع وعياً. أنا أصنع الإثنين
+
+<div align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="10%" alt="Learning" /> </div> 
