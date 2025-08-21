@@ -38,5 +38,4 @@
 
 
 
-### البرمجة تصنع حلولاً، والمحتوى يصنع وعياً. أنا أصنع الإثنين
 <div align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="10%" alt="Learning" /> </div>
